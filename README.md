@@ -1,3 +1,5 @@
-## Hi there 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yoshitheexplorer&label=Profile%20views&color=0e75b6&style=flat" alt="yoshitheexplorer" /> </p>
+<h1 align="center">Welcome!👋, I'm Colin Yamada</h1>
 
-TEST TEST
+<p align="center">📫 You can reach me at <b>yoshi.yamada.explorer@gmail.com</b></p>
+https://komarev.com/ghpvc/?username=your-github-username&color=green
