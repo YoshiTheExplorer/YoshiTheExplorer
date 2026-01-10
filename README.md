@@ -2,4 +2,3 @@
 <h1 align="center">Welcome!👋, I'm Colin Yamada</h1>
 
 <p align="center">📫 You can reach me at <b>yoshi.yamada.explorer@gmail.com</b></p>
-https://komarev.com/ghpvc/?username=your-github-username&color=green
