@@ -9,18 +9,18 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,go,py,ts,js,mysql,postgres" />
 </a>
-<h2>Projects</h2>
+<h2>Personal Projects</h2>
 
-| Title | Description |
-|---|-----|
-| Row 1, Col 1 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 3 |
+| Title | Description | Repo |
+|---|---|---|
+| TipMNEE Extension | a | Link |
+| GitSui | a | Link |
+| cBounty | a | Link |
+| Sub2Lease | a | Link |
+| TaskChain | a | Link |
+| ZyBook Solver Extension | a | Link |
 
 <h2>Currently Working On...</h2>
 <ul>AAA</ul>
 <ul>BBB</ul>
 <ul>CCC</ul>
-
-Languages: Java, Go, Python, TypeScript, JavaScript, SQL, JSON, HTML, CSS
-Frameworks: React.js, Node.js, Next.js, Gin (Go), RESTful APIs
-Developer Tools: PostgreSQL, MySQL, Redis, GORM (ORM), AWS, Docker, CI/CD (GitHub Actions)
