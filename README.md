@@ -19,9 +19,9 @@
 | cBounty | A platform that allows users to bet ETH onto tasks, either individually or collaboratively, in order to enhance accountability and motivation. | Link |
 | ZyBook Solver Extension | A Chrome Extension that automatically Solves / Auto-Completes Your ZyBooks | Link |
 
-<h2>Currently Working On...</h2>
+<h2>Goals for 2026</h2>
 <ul> 
-  <li>Graduating in 2026</li>
-  <li>Applying to jobs</li>
-  <li>Gain 100 active users for Sub2Lease</li>
+  <li><h3>Graduate in one piece</h3></li>
+  <li><h3>Land a J.O.B</h3></li>
+  <li><h3>Gain 100 active users for Sub2Lease</h3></li>
 </ul>
