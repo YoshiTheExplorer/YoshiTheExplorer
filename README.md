@@ -10,9 +10,11 @@
   <img src="https://skillicons.dev/icons?i=java,go,py,ts,js,mysql,postgres" />
 </a>
 <h2>Projects</h2>
-<ul>AAA</ul>
-<ul>BBB</ul>
-<ul>CCC</ul>
+
+| Header 1 | Header 2 | Header 3 |
+|---|---|---|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
 
 <h2>Currently Working On...</h2>
 <ul>AAA</ul>
