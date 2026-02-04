@@ -6,9 +6,7 @@
 
 
 <h2>Languages & Tools</h2>
-<ul>AAA</ul>
-<ul>BBB</ul>
-<ul>CCC</ul>
+[![My Skills](https://skillicons.dev/icons?i=java,go,py,ts,js,mysql,postgres)](https://skillicons.dev)
 
 <h2>Projects</h2>
 <ul>AAA</ul>
@@ -19,3 +17,7 @@
 <ul>AAA</ul>
 <ul>BBB</ul>
 <ul>CCC</ul>
+
+Languages: Java, Go, Python, TypeScript, JavaScript, SQL, JSON, HTML, CSS
+Frameworks: React.js, Node.js, Next.js, Gin (Go), RESTful APIs
+Developer Tools: PostgreSQL, MySQL, Redis, GORM (ORM), AWS, Docker, CI/CD (GitHub Actions)
