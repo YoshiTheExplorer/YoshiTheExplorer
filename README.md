@@ -6,8 +6,9 @@
 
 
 <h2>Languages & Tools</h2>
-[![My Skills](https://skillicons.dev/icons?i=java,go,py,ts,js,mysql,postgres)](https://skillicons.dev)
-
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,go,py,ts,js,mysql,postgres" />
+</a>
 <h2>Projects</h2>
 <ul>AAA</ul>
 <ul>BBB</ul>
