@@ -3,4 +3,19 @@
 
 <p align="center">📫 You can reach me at <b>yoshi.yamada.explorer@gmail.com</b></p>
 
-Project Timeline:
+
+
+<h2>Languages & Tools</h2>
+<ul>AAA</ul>
+<ul>BBB</ul>
+<ul>CCC</ul>
+
+<h2>Projects</h2>
+<ul>AAA</ul>
+<ul>BBB</ul>
+<ul>CCC</ul>
+
+<h2>Currently Working On...</h2>
+<ul>AAA</ul>
+<ul>BBB</ul>
+<ul>CCC</ul>
