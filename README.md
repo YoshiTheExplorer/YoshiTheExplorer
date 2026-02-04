@@ -20,6 +20,8 @@
 | ZyBook Solver Extension | A Chrome Extension that automatically Solves / Auto-Completes Your ZyBooks | Link |
 
 <h2>Currently Working On...</h2>
-<ul>Graduating in 2026</ul>
-<ul>Applying to jobs</ul>
-<ul>Gain 100 active users for Sub2Lease</ul>
+<ul> 
+  <li>Graduating in 2026</li>
+  <li>Applying to jobs</li>
+  <li>Gain 100 active users for Sub2Lease</li>
+</ul>
