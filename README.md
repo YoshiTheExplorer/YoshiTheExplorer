@@ -13,14 +13,13 @@
 
 | Title | Description | Repo |
 |---|---|---|
-| TipMNEE Extension | a | Link |
-| GitSui | a | Link |
-| cBounty | a | Link |
-| Sub2Lease | a | Link |
-| TaskChain | a | Link |
-| ZyBook Solver Extension | a | Link |
+| TipMNEE Extension | A Chrome Extension that lets viewers tip creators directly on YouTube using a stable coin called MNEE. | Link |
+| GitSui | A GitHub App that automatically reviews and rewards merged pull requests with Sui based on AI-evaluation and CI/CD payments. | Link |
+| cBounty | A platform that allows users to bet ETH onto tasks, either individually or collaboratively, in order to enhance accountability and motivation. | Link |
+| Sub2Lease | The fast and safe sublease platform built to let UW-Madison students manage the entire subleasing flow in one place. | Link |
+| ZyBook Solver Extension | A Chrome Extension that automatically Solves / Auto-Completes Your ZyBooks | Link |
 
 <h2>Currently Working On...</h2>
-<ul>AAA</ul>
-<ul>BBB</ul>
-<ul>CCC</ul>
+<ul>Graduating in 2026</ul>
+<ul>Applying to jobs</ul>
+<ul>Gain 100 active users for Sub2Lease</ul>
