@@ -18,10 +18,3 @@
 | GitSui | A GitHub App that automatically reviews and rewards merged pull requests with Sui based on AI-evaluation and CI/CD payments. |  |
 | cBounty | A platform that allows users to bet ETH onto tasks, either individually or collaboratively, in order to enhance accountability and motivation. |  |
 | ZyBook Solver Extension | A Chrome Extension that automatically Solves / Auto-Completes Your ZyBooks |  |
-
-<h2>Goals for 2026</h2>
-<ul> 
-  <li><h3>Graduate in one piece</h3></li>
-  <li><h3>Land a J.O.B</h3></li>
-  <li><h3>Gain 100 active users for Sub2Lease</h3></li>
-</ul>
